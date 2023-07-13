@@ -1,0 +1,14 @@
+{
+  "semi": false,
+  "importOrder": [
+    "^react$",
+    "^react/(.*)$",
+    "^next/(.*)$",
+    "^@mui/material/(.*)$",
+    "^@mui/icons-material/(.*)$",
+    "^@apollo/client$",
+    "^[./]"
+  ],
+  "importOrderSeparation": true,
+  "importOrderSortSpecifiers": true
+}

@@ -1,0 +1,5 @@
+# Build artifacts
+.next
+
+# 3rd-party libs
+node_modules
