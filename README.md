@@ -1,34 +1,32 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# XenonInteractive.com
 
-## Getting Started
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1dc13658-8146-42c2-8632-37c5ce74923e/deploy-status)](https://app.netlify.com/sites/xenoninteractive/deploys)
 
-First, run the development server:
+Welcome to Xenon Interactive.
 
-```bash
-npm run dev
-# or
+Xenon Interactive is a boutique consulting firm specialising in e-commerce applications. If you want to sell online with a cutting-edge, fully-reactive and engaging user experience that works seamlessly across mobile and desktop devices, then we should talk!
+
+## Intro
+
+This repository contains the codebase for the XenonInteractive.com web app front-end, located at [xenoninteractive.com](https://www.xenoninteractive.com). The project is built using [Next.js](https://nextjs.org).
+
+## Usage
+
+After cloning this repository, start the front-end server for developing with the following commands:
+
+```
+cd nizini-web-nextjs
 yarn dev
-# or
-pnpm dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+The dev server is located at [http://localhost:3000](http://localhost:3000)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## License
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+The Next.js framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
-## Learn More
+The XenonInteractive.com web app contents are proprietary and may not be used, copied, modified, merged, distributed, sublicensed or sold in any way without the express written consent of Xenon Group International and/or its licensed affiliates.
 
-To learn more about Next.js, take a look at the following resources:
+## Contact
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- Shaun Xenon Khan [shaun.khan@protonmail.com](mailto:shaun.khan@protonmail.com) [@ShaunXenonKhan](https://twitter.com/ShaunXenonKhan)
